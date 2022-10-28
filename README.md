@@ -8,7 +8,7 @@ I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am
 
 
 - 🔭 I’m currently seeking an employment. Job hunting Yay... :sunglasses:
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code "import panda as pd"
 - 🤔 After recently gradutaing from school, most of my time I’m working on my portfolio.
 - 📫 How to reach me: ashnoori@cmail.carleton.ca
 - ⚡ Fun fact: I am a competetive CSGO player and go to the GYM religiously.
