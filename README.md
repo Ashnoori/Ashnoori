@@ -7,10 +7,8 @@ I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am
  [![Linkedin Badge](https://img.shields.io/badge/-Arash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-noori/) [![Mail Badge](https://img.shields.io/badge/-arashnoori-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashnoori@cmail.carleton.ca)
 
 
-- 🔭 I’m currently seeking an employment. Job hunting Yay... :sunglasses:
-- :computer: Most used line of code "import pandas as pd"
-- 🤔 After recently gradutaing from school, most of my time I’m working on my portfolio.
-- 📫 How to reach me: ashnoori@cmail.carleton.ca
+- :computer: Most used line of code "commit -m"
+- 📫 How to reach me: noori.arash@outlook.com
 - ⚡ Fun fact: I am a competetive CSGO player and go to the GYM religiously.
 
 #### Top Technologies
