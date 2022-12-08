@@ -4,7 +4,7 @@ I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Arash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-noori/) [![Mail Badge](https://img.shields.io/badge/-arashnoori-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ashnoori@cmail.carleton.ca)
+ [![Linkedin Badge](https://img.shields.io/badge/-Arash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-noori/) [![Mail Badge](https://img.shields.io/badge/-arashnoori-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noori.arash@outlook.com)
 
 
 - :computer: Most used line of code "commit -m"
