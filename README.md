@@ -22,9 +22,3 @@ I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ashnoori.ashnoori)
-
-
-
-#### Github Stats
-
-![Ash's github stats](https://github-readme-stats.vercel.app/api?username=ashnoori&count_private=true&theme=synthwave&hide=contribs,prs)
