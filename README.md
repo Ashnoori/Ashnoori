@@ -1,13 +1,13 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am very passionate about coding, and finding patterns.
+In the chaos of data, every discovered pattern is a spark of insight, illuminating the hidden order of the universe.
 
 :mailbox: Reach me out!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Arash-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arash-noori/) [![Mail Badge](https://img.shields.io/badge/-arashnoori-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:noori.arash@outlook.com)
 
 
-- :computer: Most used line of code "commit -m"
+- :computer: Most used line of code `git commit --force`
 - 📫 How to reach me: noori.arash@outlook.com
 - ⚡ Fun fact: I am a competetive CSGO player and go to the GYM religiously.
 
@@ -21,7 +21,7 @@ I'm Arash Noori. I have a master's in Electrical and Computer Engineering and am
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ashnoori.ashnoori)
+![Visitor Count](https://komarev.com/ghpvc/?username=ashnoori)
 
 #### Github Stats
 
